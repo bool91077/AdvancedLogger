@@ -1,0 +1,32 @@
+[2024-06-25 18:06:17.343] [[34mDEBUG[0m] [/data/zjs_project/learn/AdvancedLogger/mian.cpp:11] [main] 调试信息：变量 x = 888.36
+[2024-06-25 18:06:17.343] [[32mINFO[0m] [/data/zjs_project/learn/AdvancedLogger/mian.cpp:12] [main] 信息消息：键 是 值
+[2024-06-25 18:06:17.343] [[32mINFO[0m] [/data/zjs_project/learn/AdvancedLogger/mian.cpp:13] [main] 这是一条信息日志
+[2024-06-25 18:06:17.343] [[33mWARNING[0m] [/data/zjs_project/learn/AdvancedLogger/mian.cpp:14] [main] 这是一条警告日志
+[2024-06-25 18:06:17.343] [[31mERROR[0m] [/data/zjs_project/learn/AdvancedLogger/mian.cpp:15] [main] 这是一条错误日志
+[2024-06-25 18:06:17.343] [[34mDEBUG[0m] [/data/zjs_project/learn/AdvancedLogger/mian.cpp:16] [main] 这是一条调试日志
+[2024-06-25 18:06:17.343] [[35mCRITICAL[0m] [/data/zjs_project/learn/AdvancedLogger/mian.cpp:17] [main] 这是一条关键日志
+[2024-06-25 18:06:17.344] [[36mTRACE[0m] [/data/zjs_project/learn/AdvancedLogger/mian.cpp:18] [main] 这是一条跟踪日志
+[2024-06-25 18:09:47.954] [[34mDEBUG[0m] [/data/zjs_project/learn/AdvancedLogger/mian.cpp:11] [main] 调试信息：变量 x = 888.36
+[2024-06-25 18:09:47.954] [[32mINFO[0m] [/data/zjs_project/learn/AdvancedLogger/mian.cpp:12] [main] 信息消息：键 是 值
+[2024-06-25 18:09:47.954] [[32mINFO[0m] [/data/zjs_project/learn/AdvancedLogger/mian.cpp:13] [main] 这是一条信息日志
+[2024-06-25 18:09:47.954] [[33mWARNING[0m] [/data/zjs_project/learn/AdvancedLogger/mian.cpp:14] [main] 这是一条警告日志
+[2024-06-25 18:09:47.954] [[31mERROR[0m] [/data/zjs_project/learn/AdvancedLogger/mian.cpp:15] [main] 这是一条错误日志
+[2024-06-25 18:09:47.954] [[34mDEBUG[0m] [/data/zjs_project/learn/AdvancedLogger/mian.cpp:16] [main] 这是一条调试日志
+[2024-06-25 18:09:47.954] [[35mCRITICAL[0m] [/data/zjs_project/learn/AdvancedLogger/mian.cpp:17] [main] 这是一条关键日志
+[2024-06-25 18:09:47.954] [[36mTRACE[0m] [/data/zjs_project/learn/AdvancedLogger/mian.cpp:18] [main] 这是一条跟踪日志
+[2024-06-25 18:16:04.402] [[34mDEBUG[0m] [/data/zjs_project/learn/AdvancedLogger/mian.cpp:11] [main] 调试信息：变量 x = 888.36
+[2024-06-25 18:16:04.402] [[32mINFO[0m] [/data/zjs_project/learn/AdvancedLogger/mian.cpp:12] [main] 信息消息：键 是 值
+[2024-06-25 18:16:04.402] [[32mINFO[0m] [/data/zjs_project/learn/AdvancedLogger/mian.cpp:13] [main] 这是一条信息日志
+[2024-06-25 18:16:04.402] [[33mWARNING[0m] [/data/zjs_project/learn/AdvancedLogger/mian.cpp:14] [main] 这是一条警告日志
+[2024-06-25 18:16:04.402] [[31mERROR[0m] [/data/zjs_project/learn/AdvancedLogger/mian.cpp:15] [main] 这是一条错误日志
+[2024-06-25 18:16:04.402] [[34mDEBUG[0m] [/data/zjs_project/learn/AdvancedLogger/mian.cpp:16] [main] 这是一条调试日志
+[2024-06-25 18:16:04.402] [[35mCRITICAL[0m] [/data/zjs_project/learn/AdvancedLogger/mian.cpp:17] [main] 这是一条关键日志
+[2024-06-25 18:16:04.403] [[36mTRACE[0m] [/data/zjs_project/learn/AdvancedLogger/mian.cpp:18] [main] 这是一条跟踪日志
+[2024-06-25 18:22:46.556] [[34mDEBUG[0m] [/data/zjs_project/learn/AdvancedLogger/mian.cpp:11] [main] 调试信息：变量 x = 888.36
+[2024-06-25 18:22:46.557] [[32mINFO[0m] [/data/zjs_project/learn/AdvancedLogger/mian.cpp:12] [main] 信息消息：键 是 值
+[2024-06-25 18:22:46.557] [[32mINFO[0m] [/data/zjs_project/learn/AdvancedLogger/mian.cpp:13] [main] 这是一条信息日志
+[2024-06-25 18:22:46.557] [[33mWARNING[0m] [/data/zjs_project/learn/AdvancedLogger/mian.cpp:14] [main] 这是一条警告日志
+[2024-06-25 18:22:46.557] [[31mERROR[0m] [/data/zjs_project/learn/AdvancedLogger/mian.cpp:15] [main] 这是一条错误日志
+[2024-06-25 18:22:46.557] [[34mDEBUG[0m] [/data/zjs_project/learn/AdvancedLogger/mian.cpp:16] [main] 这是一条调试日志
+[2024-06-25 18:22:46.557] [[35mCRITICAL[0m] [/data/zjs_project/learn/AdvancedLogger/mian.cpp:17] [main] 这是一条关键日志
+[2024-06-25 18:22:46.557] [[36mTRACE[0m] [/data/zjs_project/learn/AdvancedLogger/mian.cpp:18] [main] 这是一条跟踪日志

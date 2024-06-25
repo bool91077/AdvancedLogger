@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/AdvancedLogger.dir/Logger.cpp.o CMakeFiles/AdvancedLogger.dir/mian.cpp.o  -o AdvancedLogger  -lpthread 

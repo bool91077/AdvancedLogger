@@ -1,0 +1,3 @@
+/data/zjs_project/learn/AdvancedLogger/build/CMakeFiles/rebuild_cache.dir
+/data/zjs_project/learn/AdvancedLogger/build/CMakeFiles/edit_cache.dir
+/data/zjs_project/learn/AdvancedLogger/build/CMakeFiles/AdvancedLogger.dir
